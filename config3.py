@@ -25,4 +25,4 @@ with open('small.cfg', 'w') as f:
     f.write(content)
 
 print("Done!")
-EOF
+
