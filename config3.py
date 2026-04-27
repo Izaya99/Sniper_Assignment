@@ -1,5 +1,3 @@
-cp ~/sniper-assignment/Sniper_Assignment/small.cfg .
-python3 << 'EOF'
 import re
 
 with open('small.cfg', 'r') as f:
